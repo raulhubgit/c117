@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+#pontos{
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+#time{
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+    color: white;
+}
+p, h1{
+    color: white;
+}
